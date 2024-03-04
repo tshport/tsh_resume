@@ -6,5 +6,5 @@
 - [Javascript/React] [Shopping Cart](https://fanciful-bombolone-0f40b4.netlify.app) *- This is a frontend development project.*
 - [Javascript/React] [Singapore Carpark Availability App ](https://sgcarparkavailability.netlify.app) *- This is a frontend development project.*
 
-###Others
+### Others
 User Acceptance Testing (UAT): Media Delivery Suite, Shotgrid delivery, VFX Media Review, Slate Manager, etc.
