@@ -10,7 +10,7 @@ https://github.com/tshport/tsh_resume/assets/161682205/618c787d-6305-464a-8ede-a
 - [Javascript/React] [Movie Randomizer](https://sctpmodule2group1.netlify.app) *- This is a group frontend development project, I was responsible for the routing, api, navigation, styling and layout. Using api from omdbapi.*
 - [Javascript/React] [Shopping Cart](https://fanciful-bombolone-0f40b4.netlify.app) *- This is a frontend development project.*
 - [Javascript/React] [Singapore Carpark Availability App ](https://sgcarparkavailability.netlify.app) *- This is a frontend development project. Using public APIs listed at GovData.*
-- [Golang] [Movie Watchlist API](https://github.com/tshport/tsh_watchlistAPI_ingo) *- This is a backend development project using MongoDB.*
+- [Golang] [Movie Watchlist API](https://github.com/tshport/tsh_watchlistAPI_ingo) *- This is a backend development project using MongoDB Atlas.*
 - [Golang] [Service Rating App ](https://github.com/tshport/tsh_ratingingo) *- This is a small golang program.*
 
 https://github.com/tshport/tsh_resume/assets/161682205/8dff73ec-0b65-4404-8539-571a94eeaa52
