@@ -10,6 +10,12 @@ https://github.com/tshport/tsh_resume/assets/161682205/618c787d-6305-464a-8ede-a
 - [Javascript/React] [Movie Randomizer](https://sctpmodule2group1.netlify.app) *- This is a group frontend development project, I was responsible for the routing, api, navigation, styling and layout.*
 - [Javascript/React] [Shopping Cart](https://fanciful-bombolone-0f40b4.netlify.app) *- This is a frontend development project.*
 - [Javascript/React] [Singapore Carpark Availability App ](https://sgcarparkavailability.netlify.app) *- This is a frontend development project.*
+- [Golang] [Service Rating App ](https://github.com/tshport/tsh_ratingingo) *- This is a small golang program.*
+
+https://github.com/tshport/tsh_resume/assets/161682205/8dff73ec-0b65-4404-8539-571a94eeaa52
+
+
+
 
 ### Others
 User Acceptance Testing (UAT): Media Delivery Suite, Shotgrid delivery, VFX Media Review, Slate Manager, etc.
